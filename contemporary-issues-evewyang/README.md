@@ -1,7 +1,5 @@
 # Contemporary Issues In Data
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
-
 ## Article 1
 In wbur's [The Cost Of U.S. Counterterrorism Efforts: More Than 800,000 Lives And $6.4 Trillion, Research Finds](https://www.wbur.org/hereandnow/2021/03/02/countterorrism-cost-us-military), it states that there have been great efforts in various means made by the US military on counterterrorism activities. Based on data from the Costs of War Project at Brown University's Watson Institute, the U.S. carried out the air or drone strikes in seven other countries. On the other hand, the government has been connecting to the global terrorist database in accord with a border patrol system.
 
