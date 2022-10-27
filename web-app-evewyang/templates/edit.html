@@ -1,0 +1,25 @@
+{% extends 'base.html' %} {% block container %}
+<h2>Update</h2>
+<p>Edit a record in the listing of spendings.</p>
+<form method="POST" action="{{ url_for('edit_post', mongoid=mongoid) }}">
+  <p>Item: <input type="text" id="fitem" name="fitem" value="{{doc.item}}" /><br /></p>
+  <p>Amount: <input type="number" id="famount" name="famount" min="1" value="{{doc.amount}}"/><br /></p>
+  <p>Unit Price: <input type="number" id="fprice" name="fprice" min="0" step="0.01" value="{{doc.price}}"/>$<br /></p>
+  <label for="fcategory">Category:</label>
+  <select name="fcategory" id="fcategory">
+    <option value="food">food</option>
+    <option value="transportation">transportation</option>
+    <option value="medical_healthcare">medical,healthcare</option>
+    <option value="utilities">utilities</option>
+    <option value="housing">housing</option>
+    <option value="personal">personal</option>
+    <option value="entertainment">entertainment</option>
+  </select>
+  <p>Date of Spending: <input type="date" id="fdate" name="fdate" value="{{doc.spending_date}}"/><br /></p>
+  <p>Description: <textarea id="fdescription" name="fdescription">{{doc.description}}</textarea></p>
+  <p>
+    <a href="{{ url_for('read')}}">Cancel</a>
+    <input type="submit" name="post-btn" value="Save" />
+  </p>
+</form>
+{% endblock %}

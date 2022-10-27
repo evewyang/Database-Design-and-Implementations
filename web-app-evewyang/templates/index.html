@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block container %}
+<h2>Welcome!</h2>
+<p>Welcome to the Online Banking App created just for you. This is the home page. Here are a few links to example pages you might find interesting:
+    <ul>
+        <li><a href="{{ url_for('read')}}">a page that displays the history of your recorded spendings</a></li>
+        <li><a href="{{ url_for('create')}}">a page with a form you can fill in to record your recent spendings</a></li>
+    </ul>
+</p>
+{% endblock %}

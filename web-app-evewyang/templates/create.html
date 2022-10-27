@@ -1,0 +1,27 @@
+{% extends 'base.html' %} {% block container %}
+<h2>Add a Record</h2>
+<p>Record your recent spendings by filling out the details within a minute!</p>
+<form method="POST" action="{{ url_for('create_post') }}">
+  <p>Item: <input type="text" id="fitem" name="fitem" /><br /></p>
+  <p>Amount: <input type="number" id="famount" name="famount" min="1"/><br /></p>
+  <p>Unit Price: <input type="number" id="fprice" name="fprice" step="0.01" min="0"/>$<br /></p>
+  <label for="fcategory">Category:</label>
+  <select name="fcategory" id="fcategory">
+    <option value="food">food</option>
+    <option value="transportation">transportation</option>
+    <option value="medical_healthcare">medical,healthcare</option>
+    <option value="utilities">utilities</option>
+    <option value="housing">housing</option>
+    <option value="personal">personal</option>
+    <option value="entertainment">entertainment</option>
+  </select>
+  <p>Date of Spending: <input type="date" id="fdate" name="fdate" /><br /></p>
+  <p>Description:
+    <textarea type="text" id="fdescription" name="fdescription"></textarea>
+  </p>
+  <p>
+    <a href="{{ url_for('read')}}">Cancel</a>
+    <input type="submit" name="post-btn" value="Add" />
+  </p>
+</form>
+{% endblock %}
