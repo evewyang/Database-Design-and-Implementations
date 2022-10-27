@@ -1,0 +1,1001 @@
+id,category,price_tier,open_time,close_time,neighborhood,average_rating,good_for_kids
+1,family style,expensive,11:22,23:26,Essex Crossing,1.8,true
+2,fast food,medium,11:16,21:36,Union Square,1.8,false
+3,buffet,medium,12:01,21:48,Hudson Yards,2.5,true
+4,fast food,cheap,11:32,22:39,Penn South,4.3,true
+5,buffet,expensive,10:37,22:50,Lower East Side,1.8,false
+6,contemporary,cheap,11:39,23:36,Lower East Side,4.0,true
+7,fast food,cheap,10:46,21:42,Hudson Yards,3.0,false
+8,cafe,cheap,12:04,22:51,Lower East Side,5.0,true
+9,buffet,expensive,12:19,21:31,Little Italy,1.5,false
+10,family style,medium,11:46,21:37,Lower East Side,2.9,false
+11,fast food,expensive,11:09,23:26,Theater District,1.4,false
+12,fine dining,cheap,12:24,23:42,Little Australia,3.7,false
+13,cafe,medium,11:53,23:01,World Trade Center,2.9,false
+14,fast food,expensive,10:54,23:24,Meatpacking District,2.7,true
+15,contemporary,expensive,11:32,23:05,Civic Center,4.6,false
+16,cafe,medium,11:02,23:52,Cooperative Village,2.4,true
+17,fine dining,medium,12:27,22:43,Loisaida,1.7,true
+18,cafe,cheap,12:20,21:57,Nolita,4.6,true
+19,cafe,cheap,11:07,22:42,Herald Square,3.1,false
+20,casual dining,medium,11:40,22:54,Herald Square,2.8,false
+21,contemporary,expensive,11:15,23:08,NoHo,3.9,true
+22,fine dining,cheap,12:19,22:15,Hudson Square,4.2,true
+23,buffet,cheap,11:50,21:37,Flatiron District,2.7,false
+24,family style,medium,11:24,21:39,Lincoln Square,3.3,false
+25,casual dining,expensive,11:40,21:53,NoHo,3.8,false
+26,fast food,medium,10:44,22:48,Gramercy Park,1.6,true
+27,buffet,expensive,11:31,23:02,Hudson Square,2.6,false
+28,casual dining,expensive,11:39,22:40,Loisaida,2.6,true
+29,fine dining,cheap,12:14,22:50,Hudson Yards,4.7,false
+30,fast food,cheap,11:08,23:40,Gramercy Park,3.6,true
+31,contemporary,cheap,10:43,21:40,Bowery,4.4,true
+32,cafe,cheap,12:20,23:50,Riverside South,2.5,false
+33,buffet,expensive,10:32,21:58,Bowery,2.7,true
+34,family style,expensive,12:13,23:07,South Village,4.3,false
+35,buffet,expensive,11:41,23:41,Little Italy,4.0,false
+36,casual dining,expensive,10:50,21:33,NoMad,1.9,false
+37,buffet,expensive,12:24,23:15,Silicon Alley,3.1,false
+38,casual dining,cheap,11:04,22:08,Essex Crossing,4.4,true
+39,buffet,expensive,10:39,21:55,Pomander Walk,2.0,false
+40,family style,expensive,10:46,21:34,Tribeca,4.0,true
+41,family style,expensive,11:57,22:50,Riverside South,3.6,false
+42,fine dining,expensive,12:18,22:49,Flatiron District,4.9,true
+43,fine dining,expensive,11:06,21:58,Nolita,2.1,true
+44,fine dining,expensive,11:31,23:17,Silicon Alley,2.8,false
+45,contemporary,medium,12:21,22:19,Nolita,2.0,false
+46,buffet,cheap,11:43,21:40,Little Italy,4.3,true
+47,fine dining,cheap,12:16,23:31,Herald Square,2.1,true
+48,cafe,cheap,12:15,22:51,Tribeca,1.6,true
+49,family style,expensive,11:20,22:11,Korea town,3.4,true
+50,cafe,cheap,11:14,23:25,Diamond District,4.1,false
+51,buffet,expensive,10:46,21:53,Nolita,1.9,true
+52,fast food,expensive,12:21,22:29,South Street Seaport,1.4,true
+53,fast food,cheap,10:43,23:00,Essex Crossing,4.1,true
+54,buffet,expensive,11:56,23:45,Penn South,1.3,false
+55,casual dining,cheap,10:56,22:19,Tribeca,3.4,false
+56,fine dining,medium,11:20,23:49,Tribeca,2.4,true
+57,fine dining,expensive,12:07,22:43,Little Fuzhou,4.8,false
+58,fine dining,expensive,10:32,22:54,Garment District,3.3,false
+59,contemporary,cheap,12:22,23:15,Chelsea,2.3,false
+60,buffet,medium,11:11,22:56,Silicon Alley,3.3,true
+61,fine dining,medium,12:01,21:35,West Village,4.6,false
+62,buffet,expensive,12:23,21:50,Lower East Side,3.2,false
+63,buffet,medium,10:33,22:16,Civic Center,4.1,false
+64,cafe,cheap,11:27,22:49,Times Square,2.2,false
+65,casual dining,expensive,10:57,21:50,SoHo,1.4,true
+66,fast food,expensive,10:40,23:36,Union Square,4.5,false
+67,fast food,expensive,11:17,23:46,Gramercy Park,1.7,true
+68,fast food,expensive,10:35,23:43,Little Italy,2.4,true
+69,family style,medium,11:39,22:39,Chinatown,3.8,true
+70,family style,medium,11:24,22:22,Chinatown,2.2,false
+71,fast food,expensive,11:24,23:41,Cooperative Village,1.6,false
+72,fast food,expensive,10:37,22:47,Korea town,4.1,false
+73,fine dining,medium,11:56,21:56,Battery Park City,2.9,true
+74,fast food,medium,12:24,23:49,SoHo,2.2,true
+75,buffet,medium,10:52,21:32,Meatpacking District,2.7,true
+76,fast food,cheap,10:40,21:48,Chelsea,1.1,false
+77,fast food,medium,11:35,23:00,NoHo,3.7,false
+78,buffet,medium,12:13,23:01,Stuyvesant Town,3.8,true
+79,casual dining,expensive,11:08,21:42,Loisaida,1.6,true
+80,contemporary,medium,10:41,21:50,Civic Center,4.1,true
+81,cafe,expensive,11:27,21:42,Battery Park City,4.9,true
+82,family style,medium,10:58,23:29,Civic Center,1.3,false
+83,buffet,medium,10:33,21:48,Theater District,2.0,true
+84,cafe,expensive,12:09,23:44,Korea town,1.5,true
+85,buffet,cheap,11:30,21:33,Kips Bay,2.5,true
+86,fine dining,expensive,12:05,23:02,Carnegie Hill,3.5,true
+87,fine dining,expensive,11:08,23:06,Union Square,4.8,true
+88,family style,medium,12:07,23:03,Union Square,2.0,true
+89,family style,expensive,10:44,21:37,Manhattan Valley,2.5,false
+90,cafe,medium,10:46,22:37,Penn South,2.3,false
+91,family style,cheap,11:59,23:19,Two Bridges,4.6,false
+92,family style,medium,11:33,21:52,World Trade Center,3.7,false
+93,cafe,medium,11:41,23:01,Lower East Side,4.3,false
+94,family style,cheap,12:12,21:33,World Trade Center,1.9,false
+95,family style,medium,10:38,23:17,Stuyvesant Town,4.8,false
+96,buffet,medium,11:27,22:53,Chelsea,2.5,true
+97,fast food,cheap,11:29,23:00,Madison Square,3.3,false
+98,family style,expensive,11:37,23:09,Stuyvesant Town,2.9,true
+99,fine dining,medium,11:40,22:32,Alphabet City,3.4,true
+100,cafe,medium,10:30,22:16,Kips Bay,4.3,false
+101,fast food,expensive,12:11,21:46,Nolita,3.0,true
+102,fast food,expensive,12:18,22:54,Chinatown,2.0,true
+103,contemporary,medium,12:11,22:32,Carnegie Hill,1.3,false
+104,buffet,expensive,10:58,23:15,Alphabet City,2.5,false
+105,family style,medium,11:29,23:08,Cooperative Village,1.5,false
+106,fine dining,cheap,11:19,22:21,Union Square,2.0,false
+107,fast food,expensive,11:13,21:36,World Trade Center,3.5,false
+108,cafe,cheap,12:24,22:55,Union Square,2.8,true
+109,cafe,cheap,12:14,23:10,Hell's Kitchen,4.5,false
+110,buffet,cheap,12:28,22:17,Pomander Walk,1.2,true
+111,family style,expensive,11:58,23:37,Union Square,4.7,true
+112,buffet,cheap,12:21,23:36,Financial District,2.4,true
+113,casual dining,cheap,12:15,23:51,Manhattan Valley,3.9,true
+114,fast food,medium,11:56,22:45,Financial District,2.4,true
+115,family style,medium,12:02,22:00,Kips Bay,2.0,false
+116,contemporary,medium,11:12,23:02,SoHo,1.7,false
+117,contemporary,cheap,10:35,22:47,Union Square,1.1,true
+118,casual dining,medium,10:46,22:18,Hudson Yards,2.7,false
+119,family style,cheap,11:23,21:56,Times Square,3.0,false
+120,fine dining,cheap,11:28,21:51,World Trade Center,3.7,false
+121,buffet,cheap,11:11,21:49,Meatpacking District,2.5,false
+122,buffet,medium,11:10,23:19,East Village,1.7,false
+123,casual dining,medium,11:41,22:05,Two Bridges,4.2,true
+124,casual dining,medium,10:58,22:03,Flatiron District,4.0,true
+125,family style,medium,11:34,22:22,Chinatown,2.3,true
+126,fine dining,cheap,11:37,22:29,South Village,2.2,true
+127,casual dining,medium,10:53,22:29,Kips Bay,2.3,false
+128,fast food,expensive,11:16,22:36,Korea town,3.8,false
+129,cafe,expensive,12:01,21:47,Pomander Walk,1.9,true
+130,fast food,expensive,10:32,23:24,Stuyvesant Town,3.3,true
+131,fast food,cheap,11:09,23:29,Lower East Side,3.9,true
+132,family style,medium,12:07,23:48,Tribeca,3.0,true
+133,family style,medium,12:18,23:22,Korea town,3.2,true
+134,family style,medium,11:06,22:48,NoMad,2.7,false
+135,fast food,medium,10:44,23:19,Gramercy Park,1.4,false
+136,cafe,expensive,12:26,22:34,Pomander Walk,2.9,true
+137,buffet,expensive,11:01,21:46,South Village,4.4,true
+138,fine dining,cheap,11:55,21:43,East Village,3.4,true
+139,contemporary,expensive,10:30,23:15,Garment District,3.3,true
+140,casual dining,medium,10:48,21:49,Loisaida,1.3,true
+141,contemporary,expensive,10:49,22:02,Nolita,3.0,false
+142,casual dining,expensive,10:32,23:02,Little Australia,4.1,true
+143,family style,expensive,11:25,21:56,West Village,2.5,false
+144,cafe,medium,12:28,22:04,Battery Park City,3.4,true
+145,fine dining,medium,12:12,22:14,NoMad,1.4,false
+146,family style,expensive,11:35,22:32,Carnegie Hill,1.7,false
+147,fine dining,cheap,11:42,23:13,Loisaida,2.1,true
+148,casual dining,medium,12:22,21:32,Alphabet City,3.3,true
+149,family style,expensive,11:39,22:09,Meatpacking District,3.2,false
+150,fast food,cheap,11:14,22:44,World Trade Center,3.2,false
+151,contemporary,cheap,10:34,21:39,World Trade Center,3.0,false
+152,buffet,expensive,12:08,23:56,Korea town,4.6,true
+153,fast food,expensive,11:55,23:14,Gramercy Park,4.9,false
+154,fast food,expensive,11:59,23:37,Essex Crossing,1.3,false
+155,cafe,cheap,10:58,22:56,Korea town,3.4,true
+156,cafe,expensive,11:08,23:45,Meatpacking District,4.7,false
+157,casual dining,cheap,12:09,23:41,Little Fuzhou,3.0,false
+158,family style,expensive,10:34,23:43,Hudson Square,3.9,false
+159,buffet,expensive,11:50,23:21,East Village,3.3,false
+160,cafe,cheap,11:16,22:57,Theater District,2.2,true
+161,fast food,cheap,12:03,23:37,Little Fuzhou,3.0,false
+162,fast food,medium,10:51,23:35,Garment District,1.2,true
+163,fast food,expensive,11:41,22:36,Garment District,3.6,false
+164,family style,medium,11:21,23:29,Gramercy Park,1.4,true
+165,contemporary,cheap,11:12,22:03,World Trade Center,4.4,false
+166,contemporary,medium,11:47,22:25,Korea town,3.7,true
+167,fine dining,cheap,11:52,23:49,Carnegie Hill,4.5,true
+168,fast food,expensive,11:47,21:49,Battery Park City,3.5,false
+169,fast food,cheap,11:32,23:55,Penn South,2.8,true
+170,buffet,expensive,11:46,21:53,Theater District,3.1,false
+171,casual dining,cheap,10:40,21:31,Kips Bay,1.4,true
+172,fast food,expensive,10:59,21:31,Stuyvesant Town,3.5,false
+173,fast food,expensive,11:43,23:19,Nolita,3.8,false
+174,family style,cheap,11:33,23:05,SoHo,2.3,true
+175,fine dining,medium,11:07,22:50,Riverside South,4.1,false
+176,family style,expensive,10:54,23:36,Union Square,2.7,true
+177,buffet,expensive,10:37,22:35,Korea town,4.7,true
+178,casual dining,cheap,12:11,21:45,NoHo,4.1,true
+179,fast food,cheap,12:05,23:13,Tribeca,2.6,false
+180,fine dining,expensive,10:37,21:33,Loisaida,1.6,true
+181,fast food,expensive,11:29,22:22,Little Fuzhou,2.2,false
+182,fine dining,expensive,12:29,21:37,Nolita,4.2,false
+183,buffet,expensive,11:48,23:43,Penn South,2.7,true
+184,contemporary,expensive,10:31,22:40,Korea town,2.2,true
+185,buffet,cheap,12:29,23:01,Upper West Side,1.3,false
+186,contemporary,expensive,11:39,23:42,Two Bridges,1.2,true
+187,fast food,expensive,11:42,22:25,Columbus Circle,1.6,true
+188,contemporary,medium,11:26,22:52,Garment District,4.2,true
+189,cafe,cheap,11:00,23:11,West Village,4.9,false
+190,fast food,medium,11:03,22:50,Pomander Walk,1.5,false
+191,buffet,medium,11:03,23:00,Tribeca,2.7,true
+192,fast food,medium,12:08,22:43,Gramercy Park,3.2,false
+193,buffet,medium,11:30,21:50,Manhattan Valley,3.0,false
+194,fine dining,medium,12:23,22:40,Theater District,3.4,false
+195,fine dining,cheap,11:25,21:58,Bowery,4.6,true
+196,fast food,medium,10:57,23:51,Loisaida,3.3,true
+197,contemporary,expensive,12:23,23:55,Alphabet City,1.7,false
+198,family style,expensive,11:33,22:50,Loisaida,3.5,true
+199,buffet,cheap,10:39,23:14,Little Italy,1.5,true
+200,contemporary,expensive,11:49,21:30,Alphabet City,1.4,true
+201,family style,expensive,11:46,22:36,Little Italy,3.0,false
+202,fine dining,expensive,11:36,23:46,NoMad,4.1,true
+203,buffet,medium,10:34,22:54,Pomander Walk,4.1,true
+204,contemporary,expensive,11:21,23:44,Bowery,1.2,false
+205,fine dining,medium,10:56,23:58,Pomander Walk,1.6,true
+206,cafe,medium,10:40,23:20,Union Square,1.3,false
+207,fast food,medium,12:13,23:36,Kips Bay,3.9,false
+208,family style,cheap,12:16,22:42,Little Fuzhou,2.4,true
+209,cafe,cheap,12:01,21:32,Little Fuzhou,3.5,false
+210,buffet,expensive,11:00,21:55,Upper West Side,3.1,true
+211,fine dining,expensive,11:29,22:56,Riverside South,4.8,true
+212,cafe,medium,10:59,23:10,Lower East Side,4.7,false
+213,contemporary,expensive,10:54,22:05,Times Square,3.0,true
+214,contemporary,medium,11:12,23:33,Times Square,4.8,true
+215,buffet,expensive,10:33,21:39,Flatiron District,4.7,true
+216,casual dining,expensive,11:00,22:30,Little Fuzhou,3.5,false
+217,fast food,cheap,10:38,22:32,West Village,4.7,false
+218,casual dining,expensive,11:45,22:05,Hudson Square,1.5,false
+219,buffet,cheap,12:08,22:47,Chelsea,4.8,false
+220,fine dining,medium,10:56,22:25,Gramercy Park,4.9,true
+221,casual dining,medium,11:41,23:19,Little Australia,3.6,false
+222,casual dining,medium,12:01,21:33,Herald Square,3.0,true
+223,family style,medium,10:49,22:13,SoHo,4.0,true
+224,contemporary,medium,12:26,21:46,Columbus Circle,4.8,false
+225,buffet,expensive,12:10,22:14,Loisaida,1.9,false
+226,fast food,medium,12:00,23:38,Hell's Kitchen,4.1,true
+227,fast food,cheap,11:44,22:40,Pomander Walk,2.3,true
+228,cafe,expensive,11:46,23:47,Cooperative Village,3.0,true
+229,fast food,expensive,11:35,22:39,Essex Crossing,4.3,false
+230,casual dining,expensive,12:08,23:12,Little Fuzhou,5.0,false
+231,buffet,medium,11:13,21:54,Two Bridges,4.0,true
+232,family style,expensive,10:42,23:03,Carnegie Hill,4.2,false
+233,casual dining,cheap,11:46,22:15,Little Italy,3.4,true
+234,buffet,expensive,11:03,22:35,Alphabet City,2.9,false
+235,fine dining,medium,11:03,21:44,SoHo,3.6,true
+236,fine dining,expensive,12:29,22:37,Lower East Side,4.8,true
+237,fine dining,cheap,10:49,23:41,SoHo,1.6,false
+238,cafe,cheap,11:09,21:38,NoHo,2.4,false
+239,fast food,cheap,12:01,22:39,Madison Square,3.5,true
+240,buffet,medium,11:25,22:56,NoHo,3.1,true
+241,cafe,cheap,12:06,23:38,East Village,1.6,true
+242,fast food,expensive,10:48,22:10,Lincoln Square,3.5,true
+243,family style,expensive,11:06,22:10,West Village,3.9,true
+244,contemporary,expensive,11:19,23:55,Essex Crossing,3.1,true
+245,casual dining,expensive,12:15,23:13,Bowery,4.1,true
+246,contemporary,cheap,10:34,23:55,Columbus Circle,3.1,false
+247,fine dining,cheap,11:25,21:55,Nolita,2.3,true
+248,casual dining,medium,11:50,22:26,Civic Center,4.2,true
+249,casual dining,expensive,10:32,22:01,NoHo,3.9,false
+250,fine dining,medium,12:13,21:38,Chinatown,2.7,false
+251,contemporary,expensive,11:41,23:45,Stuyvesant Town,4.3,false
+252,contemporary,expensive,10:38,22:39,Bowery,3.7,true
+253,casual dining,expensive,10:58,23:14,Lower East Side,2.2,false
+254,contemporary,cheap,11:30,22:05,Meatpacking District,4.7,false
+255,fast food,medium,10:36,22:46,East Village,1.5,false
+256,contemporary,medium,11:28,22:10,Little Fuzhou,1.3,false
+257,casual dining,cheap,11:12,22:04,Meatpacking District,3.7,true
+258,contemporary,expensive,10:31,23:50,Financial District,1.7,false
+259,cafe,expensive,10:54,23:49,Herald Square,3.9,true
+260,family style,medium,11:47,23:35,Theater District,4.6,false
+261,buffet,cheap,11:08,23:24,Essex Crossing,1.8,false
+262,fine dining,medium,10:45,22:38,Chinatown,1.6,true
+263,cafe,expensive,10:35,23:53,Little Italy,4.9,true
+264,casual dining,expensive,11:53,21:40,Herald Square,2.6,false
+265,fine dining,expensive,11:33,22:39,Nolita,3.9,false
+266,fine dining,expensive,12:02,22:33,Little Italy,4.6,false
+267,fine dining,medium,12:03,22:04,Garment District,1.5,true
+268,family style,medium,10:33,21:49,Lower East Side,4.4,true
+269,contemporary,cheap,11:44,23:18,Chelsea,2.9,false
+270,contemporary,cheap,12:21,22:03,Diamond District,4.1,true
+271,fast food,cheap,11:31,21:58,West Village,3.8,false
+272,fast food,cheap,12:24,23:46,Hudson Square,3.5,true
+273,contemporary,medium,12:22,23:16,South Street Seaport,3.5,true
+274,casual dining,medium,12:16,22:38,Hell's Kitchen,4.2,true
+275,cafe,cheap,11:15,22:00,Carnegie Hill,2.8,false
+276,fast food,expensive,11:43,22:43,Flatiron District,3.8,true
+277,cafe,medium,10:50,23:02,Little Fuzhou,5.0,true
+278,fast food,expensive,11:18,22:39,Bowery,1.7,false
+279,family style,expensive,10:57,21:58,Meatpacking District,3.3,true
+280,contemporary,expensive,11:51,23:27,Manhattan Valley,4.9,false
+281,cafe,medium,11:01,22:02,Nolita,1.7,false
+282,buffet,cheap,11:22,22:41,Meatpacking District,4.1,true
+283,cafe,cheap,12:08,23:56,Garment District,4.5,true
+284,contemporary,cheap,11:06,21:31,Meatpacking District,2.1,false
+285,family style,medium,11:06,21:55,SoHo,3.5,true
+286,buffet,medium,11:56,23:13,Riverside South,2.2,true
+287,casual dining,cheap,11:21,22:03,Stuyvesant Town,2.9,true
+288,contemporary,medium,11:51,22:21,Union Square,4.7,false
+289,buffet,expensive,11:43,23:54,Stuyvesant Town,1.8,false
+290,family style,cheap,12:02,23:53,Theater District,2.9,false
+291,fine dining,expensive,10:59,23:32,Riverside South,2.0,true
+292,buffet,cheap,11:51,23:00,SoHo,1.4,true
+293,buffet,medium,12:17,23:38,Manhattan Valley,1.7,false
+294,contemporary,cheap,10:53,22:20,Riverside South,3.4,false
+295,casual dining,cheap,11:12,21:35,Little Australia,1.7,false
+296,contemporary,expensive,11:44,21:46,Penn South,5.0,false
+297,cafe,medium,11:23,23:54,Lower East Side,2.8,false
+298,family style,medium,11:57,22:06,Financial District,4.0,true
+299,fast food,medium,12:21,21:48,Union Square,2.1,true
+300,fast food,expensive,10:35,22:13,Financial District,1.9,true
+301,buffet,cheap,12:01,21:56,Tribeca,4.2,true
+302,family style,medium,10:37,22:17,Two Bridges,3.1,true
+303,family style,expensive,11:02,21:57,SoHo,2.4,true
+304,cafe,cheap,12:13,22:43,South Village,4.4,true
+305,fine dining,cheap,12:22,22:41,Two Bridges,4.5,false
+306,contemporary,medium,10:40,23:27,Theater District,3.6,false
+307,fast food,medium,10:42,23:49,Little Fuzhou,3.1,true
+308,casual dining,cheap,11:31,23:27,Hudson Yards,2.4,false
+309,fast food,medium,11:54,22:31,Union Square,3.8,false
+310,contemporary,expensive,10:53,22:40,Kips Bay,2.9,false
+311,fast food,expensive,11:53,22:03,Little Australia,4.0,true
+312,fast food,medium,11:51,21:49,East Village,4.6,true
+313,fine dining,expensive,11:14,23:48,NoHo,2.9,false
+314,casual dining,medium,10:37,22:04,Pomander Walk,2.1,true
+315,fast food,expensive,11:32,23:10,Columbus Circle,4.6,false
+316,fast food,expensive,11:56,23:48,Lower East Side,4.7,true
+317,fast food,cheap,11:36,22:34,Columbus Circle,3.1,false
+318,casual dining,cheap,10:55,21:59,NoMad,4.9,false
+319,fast food,cheap,11:56,22:40,Essex Crossing,2.9,false
+320,contemporary,cheap,12:07,23:16,Alphabet City,4.0,false
+321,casual dining,medium,12:04,21:46,Greenwich Village,4.2,true
+322,fast food,medium,12:16,22:16,East Village,1.0,false
+323,buffet,cheap,11:47,22:12,Times Square,4.6,true
+324,fine dining,medium,12:28,22:07,Civic Center,2.8,false
+325,contemporary,medium,12:20,22:10,Civic Center,4.7,false
+326,contemporary,expensive,10:34,23:08,Diamond District,1.0,true
+327,casual dining,cheap,11:15,23:37,Theater District,3.6,false
+328,cafe,cheap,11:17,22:03,Nolita,2.7,true
+329,contemporary,medium,11:04,22:43,Diamond District,2.0,false
+330,cafe,medium,12:18,22:55,NoHo,3.8,true
+331,cafe,medium,11:57,22:29,Hudson Yards,3.1,false
+332,fast food,medium,11:20,23:27,Flatiron District,4.6,true
+333,fine dining,medium,11:57,23:22,World Trade Center,1.6,false
+334,casual dining,medium,12:10,23:05,South Street Seaport,1.7,true
+335,fast food,cheap,11:31,23:39,SoHo,3.7,false
+336,fine dining,cheap,12:20,22:41,Cooperative Village,2.3,false
+337,fine dining,medium,12:11,22:21,South Street Seaport,3.1,true
+338,contemporary,cheap,11:46,22:49,Hudson Square,1.6,false
+339,cafe,cheap,11:27,21:59,Lower East Side,1.5,true
+340,cafe,cheap,11:18,22:36,West Village,4.0,false
+341,family style,medium,12:23,23:04,Lower East Side,1.4,false
+342,buffet,cheap,10:39,22:35,NoHo,4.7,true
+343,buffet,expensive,10:30,21:47,Carnegie Hill,1.5,false
+344,casual dining,expensive,10:32,23:42,Manhattan Valley,4.3,true
+345,family style,expensive,11:13,22:52,Stuyvesant Town,2.5,false
+346,family style,medium,11:30,22:57,NoHo,1.2,true
+347,casual dining,medium,11:01,22:20,Columbus Circle,1.8,true
+348,fine dining,medium,10:48,23:41,Kips Bay,1.6,true
+349,casual dining,expensive,11:58,23:08,Upper West Side,5.0,false
+350,fast food,cheap,11:36,22:08,Financial District,1.3,false
+351,fine dining,cheap,11:55,21:40,Civic Center,3.1,true
+352,family style,cheap,10:36,22:31,Carnegie Hill,3.1,false
+353,fast food,cheap,10:35,22:51,Riverside South,3.0,false
+354,cafe,expensive,12:23,23:55,Battery Park City,1.6,true
+355,cafe,expensive,10:46,23:13,Hudson Square,3.8,false
+356,casual dining,expensive,12:27,22:45,Penn South,1.0,true
+357,buffet,cheap,12:18,23:16,World Trade Center,2.1,false
+358,family style,expensive,12:24,22:14,Times Square,1.3,true
+359,fine dining,expensive,11:26,22:31,Lower East Side,1.5,false
+360,contemporary,medium,11:06,22:16,Cooperative Village,2.6,true
+361,fine dining,cheap,11:31,23:41,Financial District,1.7,false
+362,fine dining,cheap,11:13,23:16,Essex Crossing,1.3,true
+363,contemporary,cheap,11:25,23:19,Chelsea,2.9,false
+364,family style,medium,11:32,21:35,Battery Park City,2.9,true
+365,contemporary,expensive,10:48,23:08,Civic Center,3.2,true
+366,fast food,medium,11:39,22:08,Essex Crossing,2.3,false
+367,cafe,medium,11:05,23:20,World Trade Center,4.7,false
+368,family style,expensive,12:04,22:07,Tribeca,3.4,false
+369,casual dining,medium,11:00,23:17,South Street Seaport,2.5,true
+370,cafe,cheap,12:09,22:10,Manhattan Valley,4.7,false
+371,fine dining,medium,11:45,21:58,Carnegie Hill,3.5,true
+372,buffet,medium,11:55,23:26,Gramercy Park,2.3,false
+373,cafe,medium,12:04,23:02,Nolita,3.5,true
+374,cafe,cheap,11:42,22:51,Little Fuzhou,3.5,false
+375,fine dining,cheap,11:50,22:56,Columbus Circle,3.1,false
+376,fast food,cheap,10:47,23:07,NoMad,2.0,true
+377,fast food,cheap,10:46,21:32,Madison Square,3.1,true
+378,fast food,medium,10:42,22:23,Little Australia,3.5,false
+379,fine dining,cheap,11:51,21:53,Bowery,3.1,true
+380,family style,medium,10:57,23:57,Little Fuzhou,2.3,false
+381,casual dining,expensive,11:26,23:24,Kips Bay,3.9,false
+382,casual dining,cheap,12:27,23:18,Essex Crossing,1.6,true
+383,family style,cheap,10:59,22:13,Greenwich Village,2.7,true
+384,fast food,expensive,12:12,22:14,Stuyvesant Town,2.5,true
+385,cafe,cheap,12:12,22:42,Alphabet City,1.0,false
+386,casual dining,cheap,11:54,21:39,Korea town,3.1,false
+387,buffet,expensive,12:04,22:04,Times Square,1.7,false
+388,family style,expensive,10:41,23:15,Greenwich Village,2.7,true
+389,casual dining,medium,10:36,22:58,Loisaida,4.8,false
+390,contemporary,expensive,10:44,23:35,Chinatown,3.4,false
+391,casual dining,cheap,11:50,21:57,Financial District,3.9,true
+392,casual dining,cheap,10:46,21:50,Cooperative Village,3.3,true
+393,family style,cheap,10:57,23:13,Nolita,4.0,true
+394,casual dining,medium,11:33,21:43,Battery Park City,1.4,true
+395,cafe,expensive,11:13,22:45,Tribeca,4.7,true
+396,family style,expensive,12:26,22:13,Diamond District,3.7,false
+397,casual dining,cheap,11:50,23:00,Tribeca,3.6,false
+398,fine dining,cheap,10:53,21:48,East Village,4.6,true
+399,fast food,cheap,11:37,22:50,Upper West Side,3.8,true
+400,cafe,expensive,12:03,23:33,South Village,4.6,true
+401,contemporary,expensive,10:34,22:50,Essex Crossing,2.3,true
+402,fine dining,medium,11:22,21:51,Silicon Alley,4.8,false
+403,fine dining,cheap,11:37,23:04,Nolita,3.3,false
+404,family style,expensive,11:23,23:54,Financial District,1.7,true
+405,contemporary,cheap,11:22,22:16,Little Italy,1.1,false
+406,cafe,expensive,12:23,23:36,Civic Center,2.8,false
+407,casual dining,medium,11:19,22:43,Kips Bay,4.8,false
+408,contemporary,cheap,11:17,23:35,Chelsea,3.3,false
+409,fast food,cheap,11:40,23:22,Flatiron District,2.5,true
+410,cafe,expensive,12:08,22:27,Herald Square,1.9,true
+411,fine dining,cheap,10:54,21:32,Little Fuzhou,3.1,false
+412,fine dining,cheap,11:01,23:31,Essex Crossing,4.4,true
+413,family style,cheap,12:06,23:40,World Trade Center,2.6,false
+414,cafe,expensive,12:05,23:30,Civic Center,4.9,false
+415,family style,expensive,10:51,22:26,Little Australia,1.8,false
+416,contemporary,expensive,11:24,22:27,Penn South,4.8,true
+417,cafe,cheap,10:49,22:40,Hudson Yards,3.1,true
+418,buffet,cheap,10:38,23:22,Times Square,4.3,false
+419,contemporary,cheap,10:43,22:45,Greenwich Village,3.7,true
+420,cafe,cheap,12:21,21:37,NoMad,2.8,false
+421,family style,expensive,11:05,22:36,Cooperative Village,4.8,true
+422,cafe,medium,10:53,23:39,Hudson Yards,4.4,true
+423,fine dining,cheap,11:44,23:47,Little Fuzhou,3.1,true
+424,buffet,medium,12:19,22:48,Civic Center,3.5,true
+425,contemporary,medium,12:04,23:49,Riverside South,1.3,false
+426,buffet,expensive,11:25,22:03,Hell's Kitchen,1.3,false
+427,fine dining,cheap,12:07,23:14,Lower East Side,1.4,true
+428,contemporary,expensive,12:09,23:36,Loisaida,2.8,true
+429,family style,medium,11:43,22:22,Pomander Walk,4.5,true
+430,fine dining,medium,12:10,23:02,Little Australia,4.7,false
+431,cafe,medium,11:09,22:24,Herald Square,2.0,true
+432,contemporary,medium,11:02,23:33,Little Australia,2.9,false
+433,family style,cheap,11:01,22:01,West Village,1.8,false
+434,fast food,expensive,11:02,22:16,South Street Seaport,2.7,false
+435,fast food,expensive,11:36,23:42,Financial District,1.1,false
+436,contemporary,medium,10:33,22:34,Lower East Side,3.1,false
+437,cafe,expensive,12:00,22:48,Upper West Side,2.1,true
+438,contemporary,expensive,12:08,22:54,Upper West Side,4.3,true
+439,casual dining,cheap,11:20,21:59,Pomander Walk,1.1,false
+440,family style,medium,10:42,22:02,Two Bridges,3.9,false
+441,family style,cheap,11:17,23:07,Two Bridges,1.9,false
+442,fine dining,medium,11:22,22:05,South Street Seaport,5.0,true
+443,cafe,medium,11:40,21:52,Chelsea,1.9,false
+444,fast food,medium,10:54,22:03,Greenwich Village,3.2,true
+445,fine dining,cheap,11:44,22:34,Gramercy Park,1.4,true
+446,fast food,medium,11:22,21:55,Stuyvesant Town,2.0,false
+447,family style,expensive,11:48,22:05,Loisaida,3.8,true
+448,family style,expensive,10:34,23:13,Chinatown,2.4,true
+449,family style,expensive,12:19,23:35,Diamond District,2.3,false
+450,fine dining,cheap,10:36,21:37,South Village,3.2,false
+451,fast food,cheap,12:21,23:43,Two Bridges,4.6,true
+452,contemporary,medium,11:28,21:45,Garment District,1.6,false
+453,fast food,medium,11:34,23:12,Bowery,4.1,true
+454,fine dining,expensive,11:44,23:22,Stuyvesant Town,1.2,false
+455,contemporary,cheap,10:42,21:48,Nolita,4.1,false
+456,buffet,cheap,11:34,21:35,Cooperative Village,3.4,false
+457,family style,cheap,10:52,22:45,Penn South,1.8,false
+458,cafe,medium,11:45,21:58,Stuyvesant Town,3.9,true
+459,contemporary,medium,12:05,21:54,Korea town,4.0,true
+460,buffet,medium,12:18,23:11,Gramercy Park,2.6,false
+461,casual dining,cheap,10:46,21:45,Hell's Kitchen,4.2,true
+462,family style,cheap,11:22,23:28,Bowery,4.6,true
+463,family style,cheap,10:47,22:27,Diamond District,4.7,true
+464,fast food,medium,10:48,21:53,Herald Square,2.9,true
+465,fast food,medium,12:17,22:35,Lower East Side,1.9,false
+466,cafe,expensive,12:29,21:55,Chinatown,2.4,false
+467,fine dining,medium,10:36,22:11,Riverside South,1.4,true
+468,contemporary,medium,10:43,22:44,SoHo,1.9,true
+469,buffet,medium,11:39,23:11,NoMad,1.2,true
+470,fast food,medium,10:39,22:26,Lower East Side,3.9,true
+471,casual dining,medium,10:47,22:53,Madison Square,2.4,true
+472,family style,medium,11:47,23:11,Gramercy Park,2.8,false
+473,fine dining,medium,10:39,21:40,Gramercy Park,1.3,false
+474,buffet,expensive,10:40,22:01,Carnegie Hill,2.0,true
+475,family style,cheap,11:19,22:35,Madison Square,4.0,false
+476,contemporary,expensive,12:22,23:43,Financial District,4.0,false
+477,fine dining,cheap,12:16,22:17,NoHo,4.4,true
+478,casual dining,medium,10:45,23:32,Hudson Square,3.4,false
+479,casual dining,expensive,11:22,23:13,Essex Crossing,3.1,false
+480,cafe,medium,12:09,22:52,Chelsea,4.9,true
+481,contemporary,cheap,11:07,21:52,Silicon Alley,1.1,true
+482,contemporary,cheap,10:46,23:44,Chinatown,2.8,true
+483,fine dining,medium,12:09,21:43,Stuyvesant Town,4.7,true
+484,family style,medium,10:30,23:24,Lower East Side,2.3,true
+485,casual dining,expensive,11:18,21:42,Nolita,3.2,true
+486,fine dining,expensive,11:06,22:49,East Village,4.2,true
+487,buffet,medium,11:58,22:48,Penn South,2.1,true
+488,contemporary,medium,10:43,23:35,South Street Seaport,3.6,true
+489,fine dining,medium,10:58,21:38,Two Bridges,3.6,false
+490,fast food,cheap,11:02,22:58,Upper West Side,2.6,true
+491,buffet,expensive,12:05,23:57,Chelsea,3.4,false
+492,cafe,medium,11:40,22:31,NoHo,3.0,true
+493,fine dining,medium,11:18,23:30,Battery Park City,4.2,true
+494,fast food,cheap,11:08,22:07,Silicon Alley,3.0,true
+495,contemporary,expensive,11:49,21:58,Penn South,1.8,true
+496,fast food,medium,11:38,23:11,Loisaida,2.6,true
+497,fine dining,medium,11:56,22:17,Loisaida,3.2,true
+498,casual dining,cheap,10:33,23:38,Alphabet City,4.5,false
+499,cafe,cheap,11:42,22:42,Greenwich Village,1.8,true
+500,fast food,expensive,11:53,21:35,Little Australia,4.0,true
+501,buffet,cheap,11:36,23:46,Herald Square,1.5,true
+502,family style,expensive,11:44,22:35,Essex Crossing,3.5,false
+503,fine dining,cheap,11:23,21:57,Garment District,1.9,true
+504,fine dining,cheap,12:17,21:45,Meatpacking District,2.4,true
+505,buffet,medium,12:00,22:57,South Street Seaport,4.3,false
+506,casual dining,cheap,11:09,23:03,East Village,5.0,true
+507,family style,medium,11:12,22:33,Kips Bay,1.4,false
+508,cafe,cheap,10:42,23:27,Madison Square,4.0,false
+509,contemporary,cheap,11:02,21:46,Union Square,4.8,false
+510,cafe,cheap,11:58,23:15,Korea town,4.6,false
+511,family style,cheap,11:42,22:02,Stuyvesant Town,1.6,false
+512,fine dining,expensive,10:39,22:40,Theater District,3.6,false
+513,casual dining,expensive,12:27,22:08,Diamond District,4.5,true
+514,casual dining,cheap,12:14,23:32,Penn South,2.9,true
+515,casual dining,medium,11:45,21:46,Hudson Square,2.8,false
+516,casual dining,medium,12:17,21:55,NoHo,2.1,true
+517,casual dining,expensive,11:11,23:53,Little Australia,1.5,true
+518,fast food,expensive,10:41,23:19,Penn South,1.2,false
+519,family style,medium,12:17,23:16,Pomander Walk,4.2,true
+520,casual dining,medium,12:05,22:56,Chelsea,4.7,false
+521,buffet,medium,10:44,22:37,South Street Seaport,2.9,false
+522,buffet,expensive,11:10,23:32,Essex Crossing,1.1,true
+523,cafe,medium,10:34,22:25,Bowery,4.1,true
+524,fine dining,cheap,11:57,23:02,Hudson Square,3.0,true
+525,fine dining,cheap,11:52,22:48,Upper West Side,2.8,true
+526,contemporary,expensive,11:15,22:35,Little Italy,3.6,true
+527,fast food,expensive,10:45,23:23,West Village,2.0,false
+528,contemporary,medium,10:30,21:57,Pomander Walk,4.5,false
+529,buffet,medium,10:51,23:24,Manhattan Valley,2.6,true
+530,casual dining,expensive,11:23,23:19,Nolita,4.0,true
+531,fine dining,cheap,11:33,23:23,Theater District,2.1,true
+532,fine dining,medium,10:37,21:47,Little Australia,3.9,false
+533,fine dining,cheap,10:44,21:58,Theater District,4.2,false
+534,fast food,expensive,12:23,23:56,Alphabet City,3.9,false
+535,contemporary,cheap,12:17,22:08,Columbus Circle,4.3,false
+536,buffet,medium,10:51,21:52,Lower East Side,1.5,true
+537,fine dining,cheap,11:28,23:47,Little Fuzhou,2.6,false
+538,contemporary,medium,10:41,21:53,Loisaida,1.1,false
+539,fast food,medium,10:38,23:21,Chinatown,2.7,false
+540,casual dining,expensive,12:06,22:16,Hudson Square,3.9,true
+541,cafe,expensive,11:30,22:35,Manhattan Valley,3.1,false
+542,buffet,expensive,10:47,21:41,Madison Square,2.4,false
+543,cafe,expensive,11:22,22:03,Diamond District,4.5,false
+544,fast food,medium,11:25,23:07,Silicon Alley,2.8,true
+545,buffet,expensive,11:20,23:57,Korea town,2.4,true
+546,buffet,cheap,12:04,23:57,NoHo,4.1,true
+547,family style,cheap,10:49,22:16,NoMad,1.1,false
+548,contemporary,cheap,12:12,21:44,Manhattan Valley,1.3,false
+549,fine dining,cheap,12:17,23:18,Garment District,2.1,false
+550,contemporary,cheap,12:28,21:45,Gramercy Park,4.8,true
+551,cafe,cheap,11:11,21:50,Financial District,2.5,true
+552,fine dining,expensive,12:28,22:07,Korea town,2.8,false
+553,casual dining,cheap,12:00,22:09,Chelsea,1.1,false
+554,contemporary,expensive,11:34,21:30,Hudson Yards,3.7,false
+555,fine dining,medium,12:19,21:32,Cooperative Village,2.7,true
+556,fine dining,expensive,11:49,22:43,Meatpacking District,4.5,false
+557,buffet,expensive,10:42,21:40,Herald Square,4.2,false
+558,buffet,cheap,11:33,21:39,Hell's Kitchen,4.3,false
+559,family style,medium,12:28,22:46,Gramercy Park,4.5,false
+560,casual dining,medium,12:25,22:34,Gramercy Park,1.2,false
+561,buffet,cheap,12:07,21:40,Kips Bay,2.7,true
+562,fine dining,cheap,12:07,23:13,Silicon Alley,3.2,false
+563,fine dining,expensive,11:11,23:35,Meatpacking District,4.0,true
+564,family style,expensive,11:54,22:35,Penn South,1.9,true
+565,cafe,cheap,11:43,23:47,Little Italy,3.3,false
+566,buffet,cheap,10:57,23:47,East Village,2.0,false
+567,family style,expensive,10:56,23:05,Madison Square,3.9,false
+568,family style,medium,12:05,23:24,South Street Seaport,2.4,false
+569,fine dining,expensive,11:52,23:11,Columbus Circle,3.6,false
+570,family style,cheap,10:47,22:32,Times Square,4.6,false
+571,buffet,cheap,10:47,21:49,Stuyvesant Town,2.1,true
+572,casual dining,cheap,11:04,22:52,Manhattan Valley,3.0,true
+573,fine dining,expensive,12:08,22:08,Loisaida,4.3,true
+574,buffet,expensive,11:22,22:26,Chelsea,3.1,true
+575,casual dining,expensive,10:57,21:39,Loisaida,1.8,true
+576,contemporary,medium,10:56,23:32,Gramercy Park,4.6,false
+577,fast food,medium,11:28,22:42,SoHo,4.2,true
+578,buffet,expensive,11:11,23:03,Columbus Circle,3.9,false
+579,contemporary,expensive,10:44,23:32,NoHo,4.5,true
+580,fine dining,cheap,12:21,22:07,Silicon Alley,3.6,true
+581,fast food,expensive,10:47,23:30,Gramercy Park,1.5,true
+582,fine dining,cheap,11:04,22:13,Little Italy,1.5,true
+583,contemporary,medium,11:35,21:53,South Village,2.1,true
+584,fast food,cheap,10:51,22:20,Penn South,1.4,false
+585,casual dining,expensive,11:47,23:14,Diamond District,3.5,true
+586,contemporary,expensive,10:53,21:55,Lower East Side,2.1,false
+587,casual dining,cheap,10:56,22:06,Little Australia,3.6,true
+588,casual dining,medium,11:45,21:43,Carnegie Hill,2.3,false
+589,fine dining,medium,11:39,22:49,Little Australia,1.9,false
+590,cafe,expensive,10:34,22:46,Chinatown,2.0,false
+591,buffet,expensive,12:19,21:50,South Village,3.8,true
+592,fine dining,expensive,10:52,22:43,Korea town,1.0,false
+593,fine dining,medium,10:31,22:02,Diamond District,3.1,false
+594,contemporary,cheap,11:04,21:54,NoMad,4.6,false
+595,casual dining,expensive,11:20,22:48,Union Square,4.1,false
+596,fast food,expensive,12:07,22:46,Little Australia,1.4,false
+597,cafe,cheap,12:22,22:40,Hudson Square,4.4,true
+598,family style,medium,12:19,23:18,SoHo,4.6,false
+599,fine dining,expensive,11:57,23:48,Pomander Walk,3.0,true
+600,buffet,medium,12:00,22:23,West Village,4.1,false
+601,cafe,cheap,11:56,21:46,East Village,2.5,true
+602,buffet,expensive,10:52,21:33,Garment District,1.4,false
+603,fine dining,medium,11:34,23:30,Meatpacking District,1.2,true
+604,family style,medium,11:03,22:01,East Village,2.3,true
+605,family style,medium,11:53,22:23,Civic Center,1.2,false
+606,fine dining,medium,10:44,23:10,Little Italy,2.4,false
+607,cafe,medium,11:54,21:51,World Trade Center,3.7,true
+608,cafe,medium,11:51,23:15,Columbus Circle,4.7,true
+609,casual dining,cheap,10:50,22:13,Meatpacking District,1.1,false
+610,fine dining,medium,10:37,21:43,Garment District,3.1,true
+611,fine dining,cheap,10:43,22:34,World Trade Center,3.5,false
+612,contemporary,expensive,11:38,22:20,Nolita,3.5,true
+613,buffet,expensive,11:26,22:09,South Street Seaport,1.3,false
+614,casual dining,expensive,12:15,21:43,Riverside South,4.4,true
+615,fast food,expensive,10:58,23:03,Lower East Side,2.7,true
+616,buffet,expensive,11:27,22:51,World Trade Center,1.5,true
+617,casual dining,expensive,11:22,22:12,Herald Square,1.4,true
+618,contemporary,cheap,11:22,21:36,Gramercy Park,1.7,true
+619,contemporary,medium,11:38,22:50,NoMad,1.1,true
+620,buffet,medium,11:10,21:53,Flatiron District,1.5,true
+621,family style,medium,12:23,22:44,Battery Park City,1.2,true
+622,cafe,cheap,11:34,23:33,World Trade Center,1.7,false
+623,contemporary,expensive,11:41,22:04,Lincoln Square,2.3,true
+624,cafe,medium,11:25,23:22,Lower East Side,3.9,false
+625,fast food,cheap,10:54,22:01,South Village,1.1,true
+626,contemporary,cheap,12:22,23:57,Little Italy,3.6,true
+627,fine dining,expensive,12:04,23:46,Hell's Kitchen,2.2,true
+628,family style,expensive,12:19,23:50,Garment District,3.3,true
+629,buffet,cheap,11:09,22:43,Stuyvesant Town,2.2,false
+630,buffet,expensive,10:42,22:41,Tribeca,2.3,true
+631,contemporary,cheap,11:17,21:53,Little Fuzhou,1.5,true
+632,fine dining,expensive,12:12,21:34,Loisaida,3.3,false
+633,fast food,expensive,12:14,23:09,Manhattan Valley,4.1,false
+634,fine dining,expensive,11:04,22:45,Manhattan Valley,4.9,false
+635,fine dining,cheap,10:32,22:56,South Village,3.5,false
+636,contemporary,expensive,10:37,22:45,Theater District,3.8,false
+637,fine dining,expensive,11:15,21:53,Flatiron District,2.2,false
+638,contemporary,medium,11:13,22:25,East Village,4.3,true
+639,fine dining,cheap,11:10,23:53,East Village,4.7,true
+640,contemporary,expensive,12:08,23:06,Meatpacking District,4.4,true
+641,fine dining,medium,11:10,23:41,Gramercy Park,4.9,false
+642,family style,medium,12:16,22:59,Two Bridges,1.9,true
+643,cafe,cheap,12:16,22:03,Two Bridges,4.0,true
+644,fine dining,expensive,11:13,23:25,Financial District,4.6,true
+645,fast food,expensive,12:27,23:37,Essex Crossing,2.2,true
+646,cafe,cheap,12:03,23:28,Bowery,2.9,false
+647,casual dining,cheap,11:17,23:09,East Village,2.5,false
+648,fast food,expensive,10:49,23:02,Nolita,4.3,false
+649,buffet,expensive,10:42,22:40,Tribeca,2.9,true
+650,family style,medium,10:39,23:07,South Village,3.7,true
+651,buffet,expensive,10:32,23:46,Little Fuzhou,1.7,false
+652,casual dining,expensive,11:46,21:50,South Street Seaport,1.5,false
+653,cafe,expensive,11:38,23:54,South Village,1.6,false
+654,family style,cheap,12:18,23:00,NoHo,4.1,true
+655,fine dining,cheap,11:20,23:11,Riverside South,2.3,false
+656,buffet,cheap,11:00,22:17,Korea town,3.1,false
+657,contemporary,cheap,11:33,22:05,World Trade Center,3.8,true
+658,fine dining,medium,11:16,23:16,Chinatown,2.1,false
+659,casual dining,medium,12:26,21:51,Financial District,2.8,false
+660,cafe,cheap,12:04,23:53,Meatpacking District,3.3,true
+661,buffet,cheap,12:00,23:18,Little Australia,1.8,true
+662,cafe,cheap,10:56,21:49,Essex Crossing,2.3,false
+663,casual dining,cheap,11:47,23:13,Tribeca,1.9,false
+664,contemporary,cheap,11:41,22:43,Diamond District,2.5,true
+665,family style,cheap,11:09,22:43,South Street Seaport,2.4,true
+666,buffet,cheap,10:32,22:23,Madison Square,1.4,false
+667,contemporary,expensive,11:02,23:33,Manhattan Valley,4.2,false
+668,fine dining,expensive,11:32,22:33,Financial District,3.0,false
+669,family style,medium,10:51,23:45,Battery Park City,1.3,true
+670,contemporary,cheap,11:13,21:55,Essex Crossing,1.7,false
+671,casual dining,expensive,10:40,22:16,East Village,4.6,false
+672,casual dining,expensive,10:43,22:50,NoMad,4.6,false
+673,contemporary,cheap,12:28,22:47,Hell's Kitchen,2.2,true
+674,buffet,cheap,10:47,23:41,Battery Park City,3.8,false
+675,fine dining,expensive,12:04,22:10,Chelsea,4.6,true
+676,fine dining,cheap,12:00,21:35,Upper West Side,2.5,true
+677,contemporary,cheap,10:51,23:33,Penn South,1.4,false
+678,fast food,medium,10:58,22:44,Little Australia,4.9,false
+679,contemporary,medium,12:00,21:48,Union Square,4.1,false
+680,casual dining,medium,11:50,22:09,Greenwich Village,4.8,true
+681,family style,cheap,10:43,22:57,Flatiron District,2.7,true
+682,buffet,medium,11:10,22:28,Upper West Side,1.3,true
+683,casual dining,cheap,10:41,21:43,East Village,2.9,false
+684,fine dining,medium,10:53,23:35,Financial District,4.0,false
+685,cafe,expensive,11:37,21:46,Loisaida,5.0,false
+686,family style,medium,12:19,23:05,Two Bridges,4.1,true
+687,family style,medium,11:22,22:41,Carnegie Hill,3.2,true
+688,family style,expensive,12:04,23:47,Tribeca,3.0,false
+689,fast food,medium,11:33,23:41,Silicon Alley,2.9,true
+690,fine dining,medium,12:25,23:51,South Street Seaport,3.2,false
+691,fast food,medium,11:58,22:59,Stuyvesant Town,1.4,true
+692,cafe,expensive,10:51,21:47,Hudson Square,1.2,true
+693,fine dining,cheap,11:37,22:24,Alphabet City,2.5,false
+694,family style,cheap,11:50,21:31,Chelsea,3.5,false
+695,contemporary,cheap,11:02,23:17,Manhattan Valley,1.3,true
+696,cafe,expensive,11:24,23:23,World Trade Center,4.1,true
+697,fine dining,expensive,12:11,23:19,Essex Crossing,3.9,false
+698,contemporary,cheap,11:23,23:02,Tribeca,1.9,false
+699,fast food,expensive,11:27,21:54,Loisaida,3.2,true
+700,cafe,cheap,11:46,23:30,South Village,3.3,true
+701,fine dining,cheap,12:27,22:38,Stuyvesant Town,1.6,true
+702,family style,cheap,11:35,23:58,Hudson Yards,2.3,false
+703,casual dining,cheap,11:22,23:44,Gramercy Park,4.7,true
+704,contemporary,expensive,12:07,21:49,Theater District,1.9,false
+705,cafe,expensive,12:23,21:47,Two Bridges,1.3,false
+706,family style,medium,11:21,23:08,Theater District,4.0,true
+707,contemporary,expensive,11:11,22:19,Silicon Alley,1.9,true
+708,casual dining,cheap,11:45,21:41,Garment District,3.3,true
+709,casual dining,expensive,11:08,21:49,NoMad,3.6,true
+710,contemporary,cheap,11:12,22:21,Hell's Kitchen,4.1,true
+711,casual dining,medium,11:53,23:40,Hudson Square,3.3,true
+712,contemporary,cheap,10:53,22:35,Essex Crossing,4.6,false
+713,family style,expensive,10:33,22:03,Gramercy Park,4.0,true
+714,buffet,expensive,10:38,22:45,Stuyvesant Town,2.2,false
+715,family style,medium,11:42,22:29,Garment District,3.6,false
+716,fast food,expensive,10:40,21:51,Financial District,2.2,true
+717,contemporary,medium,12:08,23:05,NoMad,2.9,false
+718,cafe,cheap,12:26,23:21,Columbus Circle,2.2,true
+719,casual dining,expensive,11:10,23:48,Alphabet City,1.6,false
+720,cafe,expensive,11:35,22:29,Chinatown,2.0,false
+721,cafe,cheap,11:29,23:38,Times Square,3.9,false
+722,contemporary,expensive,11:57,23:08,Union Square,3.7,true
+723,contemporary,expensive,12:22,21:55,Herald Square,4.0,true
+724,fine dining,cheap,11:11,21:40,Two Bridges,1.8,false
+725,contemporary,medium,12:04,23:27,West Village,3.6,true
+726,buffet,medium,10:38,22:14,Hudson Yards,4.9,false
+727,fine dining,cheap,11:38,22:23,Garment District,4.0,false
+728,fine dining,medium,10:49,22:15,Cooperative Village,2.7,false
+729,cafe,cheap,12:21,22:48,Theater District,2.4,true
+730,casual dining,expensive,11:29,22:21,Loisaida,5.0,true
+731,family style,medium,11:36,22:50,West Village,1.9,true
+732,fast food,medium,10:51,23:52,East Village,3.5,true
+733,cafe,medium,10:59,21:32,Diamond District,1.7,false
+734,cafe,expensive,11:22,21:37,Tribeca,3.7,true
+735,cafe,medium,12:23,23:20,Madison Square,1.6,false
+736,buffet,medium,12:20,23:42,Little Italy,4.6,false
+737,fast food,medium,11:52,22:56,Union Square,4.6,false
+738,contemporary,cheap,11:05,23:11,Hudson Square,4.4,false
+739,fine dining,cheap,12:13,22:47,Nolita,4.5,true
+740,cafe,cheap,12:15,23:43,Little Fuzhou,1.4,true
+741,buffet,cheap,10:44,23:40,Union Square,2.3,false
+742,fast food,medium,10:34,23:12,Civic Center,4.2,false
+743,buffet,medium,11:23,22:23,Nolita,2.6,true
+744,fine dining,expensive,11:02,23:04,Pomander Walk,1.5,false
+745,fast food,medium,11:19,21:59,Riverside South,1.3,true
+746,casual dining,expensive,12:23,23:27,Two Bridges,2.6,true
+747,cafe,cheap,11:45,21:35,Little Italy,3.2,false
+748,family style,medium,11:47,23:44,Union Square,1.3,false
+749,family style,cheap,12:13,22:37,Hell's Kitchen,2.3,false
+750,fast food,medium,11:19,23:48,Kips Bay,2.8,false
+751,buffet,medium,11:39,23:21,Flatiron District,2.9,true
+752,fast food,expensive,11:14,21:47,Penn South,3.1,false
+753,fine dining,cheap,12:14,23:14,Lower East Side,1.2,true
+754,fast food,expensive,11:54,23:33,Bowery,3.8,true
+755,casual dining,expensive,11:10,22:43,Loisaida,1.8,false
+756,fast food,expensive,12:20,22:58,Herald Square,3.2,true
+757,contemporary,cheap,12:06,23:13,NoHo,1.1,false
+758,contemporary,expensive,12:07,22:05,Lower East Side,3.0,false
+759,family style,medium,11:45,21:36,Hudson Square,3.3,false
+760,fine dining,cheap,10:50,22:27,Korea town,1.9,true
+761,fast food,medium,11:07,23:15,South Village,1.9,false
+762,cafe,expensive,10:59,22:07,NoHo,1.2,false
+763,cafe,expensive,11:45,22:49,Manhattan Valley,1.0,false
+764,casual dining,expensive,12:22,22:27,Financial District,2.9,false
+765,casual dining,cheap,11:14,23:20,Silicon Alley,2.5,false
+766,family style,expensive,11:18,23:45,Lower East Side,1.3,true
+767,fine dining,medium,11:28,22:36,Hell's Kitchen,1.4,true
+768,casual dining,cheap,12:13,23:41,Tribeca,2.2,true
+769,cafe,medium,11:13,22:04,Silicon Alley,4.4,true
+770,cafe,cheap,12:22,23:44,Cooperative Village,3.0,false
+771,cafe,medium,10:35,21:33,Alphabet City,4.2,true
+772,casual dining,expensive,10:57,22:47,Columbus Circle,2.5,true
+773,buffet,expensive,10:45,21:40,Little Italy,3.4,false
+774,casual dining,cheap,11:29,21:44,Nolita,3.2,true
+775,fast food,medium,10:30,23:29,Kips Bay,3.2,true
+776,fine dining,medium,10:36,23:22,Little Fuzhou,3.8,true
+777,buffet,cheap,11:18,22:51,Loisaida,2.4,true
+778,contemporary,medium,11:29,23:01,Alphabet City,1.7,true
+779,buffet,cheap,12:25,21:43,Stuyvesant Town,3.4,true
+780,buffet,medium,12:23,23:34,Two Bridges,3.8,true
+781,fast food,expensive,11:23,21:53,Garment District,4.5,true
+782,fine dining,expensive,10:53,22:57,Stuyvesant Town,3.5,false
+783,fine dining,expensive,11:10,21:47,Nolita,2.6,true
+784,fast food,cheap,11:16,22:48,Tribeca,1.0,false
+785,contemporary,cheap,10:35,21:38,Civic Center,4.1,false
+786,fine dining,cheap,10:34,22:12,Penn South,4.6,true
+787,cafe,cheap,10:38,23:11,Nolita,1.3,true
+788,casual dining,medium,12:21,23:58,Garment District,2.1,true
+789,cafe,medium,12:29,22:48,Little Fuzhou,2.8,false
+790,casual dining,medium,11:57,21:30,Gramercy Park,3.6,false
+791,buffet,expensive,11:23,22:27,Battery Park City,2.9,false
+792,fine dining,medium,11:19,22:55,Nolita,2.8,false
+793,family style,expensive,10:39,22:14,East Village,3.7,true
+794,buffet,medium,11:07,22:24,Battery Park City,3.6,true
+795,family style,cheap,12:16,23:37,Chelsea,3.9,true
+796,cafe,expensive,11:16,23:25,Cooperative Village,2.8,true
+797,fast food,medium,12:02,23:51,Greenwich Village,4.7,true
+798,casual dining,cheap,11:03,21:52,Hudson Yards,4.7,false
+799,family style,expensive,12:00,22:16,Columbus Circle,1.9,true
+800,fine dining,medium,11:37,23:00,Korea town,2.7,true
+801,casual dining,cheap,12:21,22:29,Civic Center,2.3,true
+802,fast food,expensive,11:21,21:42,East Village,3.5,true
+803,cafe,cheap,10:37,23:50,Alphabet City,3.1,true
+804,cafe,expensive,11:47,23:37,World Trade Center,2.9,true
+805,fine dining,cheap,12:14,23:38,Theater District,4.9,false
+806,contemporary,cheap,11:17,23:20,Financial District,3.1,false
+807,buffet,cheap,12:06,23:49,Little Australia,1.9,false
+808,buffet,cheap,11:01,21:53,World Trade Center,2.6,true
+809,fast food,cheap,10:37,23:41,Penn South,2.4,true
+810,cafe,medium,12:00,23:06,Greenwich Village,2.6,true
+811,buffet,medium,11:16,22:53,NoMad,4.3,true
+812,contemporary,cheap,11:07,21:43,Little Fuzhou,1.9,false
+813,family style,medium,12:14,22:43,Chinatown,2.5,true
+814,casual dining,expensive,12:14,23:38,Silicon Alley,1.6,true
+815,contemporary,expensive,12:21,22:35,Loisaida,3.3,false
+816,cafe,medium,10:54,22:46,Bowery,2.6,false
+817,buffet,cheap,11:49,22:11,Chinatown,4.5,false
+818,cafe,medium,12:29,23:50,Tribeca,1.4,true
+819,casual dining,expensive,12:07,23:04,Bowery,1.3,true
+820,cafe,medium,12:12,23:18,Tribeca,2.3,false
+821,cafe,medium,12:23,23:26,Times Square,3.8,false
+822,fast food,expensive,10:38,22:11,Silicon Alley,4.9,false
+823,casual dining,expensive,12:14,22:39,SoHo,3.0,false
+824,cafe,expensive,11:49,22:20,Little Fuzhou,3.0,false
+825,casual dining,medium,12:01,22:13,Hudson Square,3.4,true
+826,cafe,cheap,11:00,22:44,West Village,3.1,true
+827,buffet,medium,11:57,22:32,NoHo,2.7,true
+828,casual dining,cheap,10:54,22:50,Civic Center,4.0,true
+829,casual dining,cheap,11:35,22:54,Little Fuzhou,2.7,false
+830,contemporary,medium,12:29,23:44,South Street Seaport,1.5,false
+831,contemporary,medium,12:11,23:28,Herald Square,3.6,false
+832,contemporary,medium,11:16,22:01,Nolita,3.9,true
+833,fast food,expensive,10:41,22:14,Essex Crossing,3.6,false
+834,casual dining,cheap,12:02,23:52,South Street Seaport,1.3,true
+835,buffet,medium,10:33,23:02,Cooperative Village,2.3,true
+836,fine dining,expensive,11:56,21:40,Pomander Walk,4.6,false
+837,cafe,cheap,11:25,23:27,Nolita,2.0,true
+838,contemporary,cheap,10:34,22:56,Little Italy,1.4,false
+839,casual dining,expensive,12:13,21:41,Stuyvesant Town,1.0,true
+840,family style,medium,11:58,23:37,Lower East Side,2.2,true
+841,buffet,cheap,11:38,22:31,Silicon Alley,4.0,true
+842,family style,expensive,11:53,23:28,Battery Park City,2.0,false
+843,fine dining,expensive,12:28,23:09,Penn South,3.2,true
+844,fine dining,expensive,11:56,23:01,Times Square,1.3,false
+845,fast food,expensive,11:30,23:11,Diamond District,4.8,true
+846,contemporary,medium,11:10,21:51,Nolita,1.5,false
+847,fast food,cheap,11:06,22:54,Pomander Walk,3.2,false
+848,fast food,medium,11:18,22:11,NoMad,2.7,false
+849,contemporary,expensive,10:41,22:53,Essex Crossing,2.9,true
+850,cafe,medium,12:08,23:58,Pomander Walk,4.8,false
+851,fine dining,medium,10:36,23:25,Garment District,3.7,true
+852,contemporary,expensive,11:24,23:51,East Village,2.1,true
+853,fast food,cheap,11:10,22:32,Bowery,2.0,false
+854,casual dining,medium,11:02,22:46,Garment District,3.0,true
+855,cafe,expensive,12:12,23:34,NoHo,2.3,true
+856,contemporary,medium,10:47,22:59,Hudson Yards,2.4,false
+857,contemporary,expensive,10:35,23:45,Little Italy,4.4,true
+858,fine dining,cheap,12:03,23:30,Little Italy,3.8,true
+859,buffet,medium,12:27,23:32,Bowery,3.5,true
+860,fast food,medium,11:10,21:30,Hudson Square,4.5,false
+861,casual dining,medium,10:56,21:40,World Trade Center,2.0,true
+862,fine dining,cheap,11:12,22:57,Hudson Yards,1.0,true
+863,contemporary,cheap,11:02,23:52,Pomander Walk,2.1,false
+864,fine dining,cheap,11:39,23:11,Columbus Circle,1.3,false
+865,family style,medium,11:13,23:00,Chinatown,2.8,false
+866,contemporary,medium,11:39,23:37,Battery Park City,1.4,true
+867,contemporary,expensive,12:28,23:56,World Trade Center,2.5,true
+868,casual dining,expensive,12:20,23:57,Alphabet City,2.4,false
+869,fast food,cheap,10:45,23:07,Little Australia,2.5,false
+870,contemporary,expensive,10:44,21:43,World Trade Center,2.6,true
+871,cafe,expensive,11:35,22:46,Columbus Circle,4.8,true
+872,cafe,cheap,12:27,22:24,Little Australia,4.1,false
+873,buffet,cheap,11:58,22:10,Theater District,1.6,true
+874,contemporary,medium,11:41,23:23,Riverside South,2.4,false
+875,fine dining,medium,12:08,23:38,NoHo,2.4,true
+876,fine dining,expensive,11:33,23:22,Loisaida,4.0,false
+877,buffet,medium,11:03,22:10,Civic Center,2.0,false
+878,contemporary,medium,12:17,22:33,Silicon Alley,1.4,true
+879,contemporary,medium,11:20,22:19,Union Square,4.4,false
+880,casual dining,expensive,12:22,23:46,Diamond District,3.4,false
+881,fine dining,expensive,12:04,22:01,Bowery,4.9,true
+882,fine dining,expensive,10:56,21:33,Greenwich Village,2.4,false
+883,fine dining,medium,10:50,22:23,Pomander Walk,2.1,false
+884,cafe,cheap,10:36,22:36,Union Square,3.5,true
+885,fine dining,expensive,12:16,21:59,Essex Crossing,3.1,false
+886,fine dining,medium,12:16,22:37,Hudson Square,2.7,true
+887,buffet,expensive,11:03,21:49,Chinatown,1.5,false
+888,casual dining,medium,12:03,23:02,Hudson Square,3.6,false
+889,contemporary,cheap,10:56,23:20,South Village,2.3,true
+890,cafe,medium,11:23,23:37,NoMad,1.5,false
+891,fast food,expensive,10:32,22:21,West Village,2.4,false
+892,fine dining,medium,11:28,22:32,South Village,2.7,false
+893,cafe,medium,11:35,23:31,Flatiron District,1.6,false
+894,cafe,expensive,10:43,22:01,World Trade Center,4.7,true
+895,buffet,cheap,11:05,22:32,Silicon Alley,3.9,false
+896,buffet,medium,11:14,23:10,Upper West Side,3.6,true
+897,fine dining,expensive,11:43,22:03,Essex Crossing,1.7,true
+898,contemporary,cheap,11:37,23:25,Diamond District,1.2,true
+899,cafe,medium,12:04,23:06,Kips Bay,2.6,true
+900,fine dining,expensive,10:53,22:59,Little Fuzhou,1.7,true
+901,fast food,cheap,10:38,21:48,Columbus Circle,1.7,false
+902,family style,expensive,11:11,22:57,Carnegie Hill,1.3,true
+903,cafe,medium,11:44,22:25,Theater District,2.2,false
+904,cafe,expensive,11:11,23:57,World Trade Center,3.3,false
+905,contemporary,medium,11:05,21:41,Bowery,1.2,true
+906,cafe,cheap,11:52,23:12,Cooperative Village,1.2,false
+907,cafe,expensive,10:50,23:52,Hell's Kitchen,3.6,true
+908,cafe,cheap,11:08,23:18,NoMad,2.2,true
+909,cafe,expensive,10:47,21:44,Two Bridges,3.1,true
+910,family style,expensive,12:12,23:35,Loisaida,3.9,true
+911,cafe,expensive,11:13,23:06,Penn South,4.9,true
+912,buffet,medium,11:17,23:51,Penn South,1.0,true
+913,fine dining,expensive,10:50,23:38,Financial District,4.8,true
+914,fast food,medium,10:57,23:48,Theater District,1.8,false
+915,family style,expensive,11:03,22:31,Garment District,1.7,true
+916,contemporary,expensive,12:28,22:42,Union Square,4.5,false
+917,buffet,expensive,12:25,23:10,Little Australia,3.5,true
+918,fast food,expensive,11:32,22:51,Battery Park City,2.0,false
+919,contemporary,medium,10:42,21:33,Hudson Square,3.0,true
+920,family style,cheap,12:09,22:15,Madison Square,1.0,false
+921,fine dining,cheap,12:19,22:29,Loisaida,1.3,false
+922,fine dining,expensive,10:56,23:00,NoMad,2.6,true
+923,fast food,medium,11:45,21:53,Alphabet City,1.9,true
+924,buffet,medium,11:17,23:20,Union Square,1.8,false
+925,fast food,medium,10:46,23:12,West Village,2.9,true
+926,fine dining,expensive,10:46,23:32,Hudson Yards,1.3,false
+927,cafe,medium,11:45,23:52,Silicon Alley,4.7,true
+928,casual dining,cheap,11:39,21:59,Two Bridges,3.0,false
+929,buffet,medium,12:00,22:08,Columbus Circle,3.2,true
+930,cafe,medium,11:57,21:46,Theater District,1.2,true
+931,family style,medium,10:52,23:30,Stuyvesant Town,2.1,false
+932,fine dining,expensive,10:30,23:03,South Village,4.3,true
+933,fine dining,cheap,11:32,23:21,Manhattan Valley,4.9,true
+934,contemporary,medium,11:04,21:30,East Village,2.7,true
+935,cafe,expensive,11:27,23:35,Lower East Side,2.8,false
+936,family style,cheap,10:53,22:30,Hudson Square,2.0,true
+937,fast food,medium,11:36,21:46,Flatiron District,2.1,true
+938,casual dining,medium,11:13,22:39,Financial District,4.3,false
+939,casual dining,cheap,11:33,22:01,Little Australia,1.1,false
+940,fine dining,medium,11:46,23:39,Cooperative Village,4.3,true
+941,casual dining,expensive,11:06,22:23,Union Square,4.5,true
+942,fast food,medium,12:10,23:58,Hell's Kitchen,4.1,false
+943,fast food,expensive,10:36,21:32,Hudson Yards,2.0,true
+944,fine dining,medium,11:21,22:54,Carnegie Hill,3.1,true
+945,cafe,expensive,10:41,21:53,Alphabet City,2.0,true
+946,fast food,cheap,11:51,23:51,Little Fuzhou,3.2,true
+947,fine dining,cheap,11:43,21:40,Alphabet City,4.4,false
+948,buffet,expensive,12:12,21:40,Stuyvesant Town,1.3,true
+949,fast food,cheap,11:37,22:46,Nolita,2.2,false
+950,cafe,expensive,11:52,22:51,West Village,3.5,false
+951,buffet,cheap,11:26,22:58,Two Bridges,1.8,true
+952,fast food,medium,12:20,23:23,Meatpacking District,4.6,true
+953,cafe,medium,11:25,21:58,Carnegie Hill,4.4,false
+954,buffet,expensive,11:25,23:42,World Trade Center,4.1,true
+955,contemporary,medium,11:44,21:33,Civic Center,3.4,true
+956,casual dining,medium,12:28,22:51,Alphabet City,4.1,true
+957,cafe,medium,11:12,22:41,Loisaida,1.1,false
+958,fine dining,expensive,12:23,22:50,SoHo,1.7,true
+959,family style,cheap,12:23,22:48,World Trade Center,2.2,false
+960,fine dining,expensive,12:28,21:36,Loisaida,4.1,false
+961,fast food,cheap,12:21,21:32,Battery Park City,3.6,true
+962,family style,cheap,11:43,23:53,NoMad,5.0,true
+963,contemporary,medium,11:39,21:38,World Trade Center,1.5,false
+964,fast food,cheap,11:28,23:30,Flatiron District,4.1,false
+965,casual dining,cheap,11:10,23:04,Herald Square,4.6,true
+966,buffet,expensive,12:21,23:32,Kips Bay,4.0,false
+967,family style,cheap,11:15,23:35,NoHo,4.7,true
+968,contemporary,medium,11:54,22:05,West Village,4.6,false
+969,cafe,cheap,11:51,22:57,Flatiron District,2.8,false
+970,buffet,cheap,10:58,22:25,Bowery,1.2,false
+971,fine dining,cheap,12:15,22:26,Essex Crossing,3.3,false
+972,casual dining,cheap,10:42,23:34,Hudson Yards,1.8,false
+973,contemporary,expensive,11:36,23:52,Union Square,4.5,false
+974,casual dining,cheap,11:42,23:12,Chinatown,1.2,true
+975,buffet,cheap,12:03,21:58,Meatpacking District,1.5,false
+976,contemporary,medium,10:50,22:12,Herald Square,4.2,true
+977,fine dining,medium,12:28,21:47,Battery Park City,2.1,false
+978,cafe,cheap,12:14,22:36,Little Australia,4.6,true
+979,family style,medium,11:42,22:36,Bowery,4.3,true
+980,contemporary,cheap,10:43,23:51,Alphabet City,2.8,true
+981,fine dining,cheap,12:24,23:14,Columbus Circle,3.8,true
+982,contemporary,cheap,10:55,22:23,Gramercy Park,3.1,false
+983,contemporary,expensive,11:59,21:43,Times Square,3.2,true
+984,buffet,cheap,11:40,22:52,Garment District,3.4,true
+985,family style,medium,11:40,21:56,Kips Bay,4.8,false
+986,fine dining,expensive,11:54,22:31,Meatpacking District,2.5,false
+987,casual dining,medium,11:18,21:35,Riverside South,3.6,true
+988,buffet,expensive,12:16,22:00,Flatiron District,3.7,true
+989,contemporary,medium,10:52,23:15,Diamond District,3.7,false
+990,casual dining,medium,12:29,21:34,Korea town,3.4,false
+991,fast food,cheap,11:35,23:20,Penn South,1.7,true
+992,buffet,medium,11:51,22:49,Columbus Circle,1.4,false
+993,casual dining,cheap,10:31,23:53,Chelsea,4.0,false
+994,casual dining,expensive,10:50,22:57,Two Bridges,1.0,true
+995,contemporary,cheap,10:50,22:35,Lower East Side,4.6,false
+996,casual dining,medium,11:37,22:25,Alphabet City,3.8,false
+997,cafe,expensive,11:17,22:20,Chelsea,4.5,true
+998,fast food,expensive,11:41,22:18,Carnegie Hill,3.3,false
+999,contemporary,medium,11:47,21:53,Cooperative Village,2.2,false
+1000,casual dining,cheap,10:39,22:21,Cooperative Village,3.0,false
