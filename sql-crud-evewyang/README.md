@@ -4,7 +4,7 @@ An assignment to design relational database tables with particular applications 
 
 The contents of this file will be deleted and replaced with the content described in the [instructions](./instructions.md)
 ## Part 1: Restaurant
-Link to the csv file is [here](https://github.com/dbdesign-students-fall2021/sql-crud-evewyang/blob/main/data/restaurant.csv).
+Link to the csv file is [here](./data/restaurant.csv).
 ### Create table
 The table named `restaurant` is first created manually with the stucture:
 ````
@@ -44,7 +44,7 @@ Use `DELETE FROM restaurant WHERE good_for_kids="false";` to remove all restaura
 The query `SELECT neighborhood,COUNT(*) FROM restaurant GROUP BY neighborhood;` returns the the name of each NYC neighborhood and the corresponding count of the restaurants in that area. 
 
 ## Part 2: Social media app
-Click on [users](https://github.com/dbdesign-students-fall2021/sql-crud-evewyang/blob/main/data/users.csv) or [posts](https://github.com/dbdesign-students-fall2021/sql-crud-evewyang/blob/main/data/posts.csv) to check out the csv files imported for this database.
+Click on [users](./data/users.csv) or [posts](./data/posts.csv) to check out the csv files imported for this database.
 ### Create table
 The table named `users` is created manually with the stucture:
 ````
