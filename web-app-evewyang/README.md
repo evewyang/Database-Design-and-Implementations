@@ -1,7 +1,7 @@
 # Flask-MongoDB Web App
 
 ## Description
-The title of [My app](https://i6.cims.nyu.edu/~wy818/web-app-evewyang/flask.cgi/) is <span style="font-weight: bold">My Banking App</span>. It basically holds and displays all the spending you typed in as records into the database. It has three pages: a Home page that introduces the fucntion and redirects, a Spendings page that displays all your records as individual tables, and a Add-a-record page with blanks to be filled in with details. Code can be found [here](https://github.com/dbdesign-students-fall2021/web-app-evewyang/blob/main/app.py) and [here](https://github.com/dbdesign-students-fall2021/web-app-evewyang/tree/main/templates). Screenshots of the app are shown below:
+The title of [My app](https://i6.cims.nyu.edu/~wy818/web-app-evewyang/flask.cgi/) is <span style="font-weight: bold">My Banking App</span>. It basically holds and displays all the spending you typed in as records into the database. It has three pages: a Home page that introduces the fucntion and redirects, a Spendings page that displays all your records as individual tables, and a Add-a-record page with blanks to be filled in with details. Code can be found [here](https://github.com/evewyang/Database-Design-and-Implementations/blob/main/web-app-evewyang/app.py) and [here](https://github.com/evewyang/Database-Design-and-Implementations/tree/main/web-app-evewyang/templates). Screenshots of the app are shown below:
 #### Home
 <img src="images/home.png" alt="Home" style="float: left; width: 500px"/></br>
 
@@ -9,7 +9,7 @@ The title of [My app](https://i6.cims.nyu.edu/~wy818/web-app-evewyang/flask.cgi/
 <img src="images/read.png" alt="Read" style="float: left; width: 500px"/></br>
 
 #### Add a record
-This page allows you to type in the name of item, amount of such item(s), unit price of item, category of item, date of buying and a brief description of it. 
+This page allows you to type in the name of item, amount of such item(s), unit price of item, category of item, date of buying and a brief description of it. </br>
 <img src="images/create.png" alt="Create" style="float: left; width: 500px"/></br>
 
 #### Sort
